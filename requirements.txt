@@ -1,0 +1,10 @@
+selenium
+requests
+boto3
+pyYaml
+sqlalchemy
+psycopg2-binary
+pandas
+webdriver-manager
+awscli
+python-dotenv

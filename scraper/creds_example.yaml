@@ -1,0 +1,8 @@
+---
+DATABASE_TYPE: your_database_type
+DBAPI: your_dbapi # e.g. psycopg2
+HOST: host_name_on_aws
+USER: your_username
+PASSWORD: your_password
+DATABASE: database_type #e.g. postgres
+PORT: your_port

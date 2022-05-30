@@ -1,0 +1,17 @@
+scraper/geckodriver.log
+geckodriver.log
+scraper/raw_data/
+__pycache__/
+scraper/_pycache_/
+creds.yaml
+chromedriver.exe
+scraper/beatport_scraper.ipynb
+scraper/test.ipynb
+beatport_scraper.egg-info/
+beatportscraper.egg-info/
+beatscraper.egg-info/
+raw_data/
+dist/
+prometheus.yml
+scraper/__pycache__/
+test/__pycache__
